@@ -53,7 +53,7 @@
     {
       "name": "Task 6",
       "setup": "",
-      "run": "python3 task5.py",
+      "run": "python3 task6.py",
       "input": "",
       "output": "John earns $6 per hour",
       "comparison": "included",
